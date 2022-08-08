@@ -1,3 +1,9 @@
+body {
+  background: #eafced;
+}
+a {
+  color: #6d9773;
+}
 .App-header {
   margin: 30px 0;
 }
@@ -5,6 +11,7 @@
   max-width: 200px;
   display: block;
   margin: 0 auto;
+  border-radius: 5px;
 }
 .App-footer {
   text-align: center;
