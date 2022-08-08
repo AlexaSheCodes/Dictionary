@@ -12,7 +12,34 @@ function App() {
         <main>
           <Dictionary defaultKeyword="book" />
         </main>
-        <footer className="App-footer">Coded by Alexandra Goilo</footer>
+        <footer className="App-footer">
+          <p className="Footer">
+            This project was coded by{" "}
+            <a
+              href="https://subtle-malabi-26387a.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Alexandra Goilo
+            </a>
+            👩‍💻 and is {""}
+            <a
+              href="https://github.com/AlexaSheCodes/Dictionary"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-sourced on GitHub
+            </a>
+            {""} and {""}
+            <a
+              href="https://chimerical-pika-fa25af.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              hosted on Netlify
+            </a>
+          </p>
+        </footer>
       </div>
     </div>
   );
