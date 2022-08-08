@@ -4,7 +4,6 @@
   font-weight: bold;
 }
 .Meaning .example {
-  font-size: 11px;
-  opacity: 0.7;
+  color: #70757a;
   font-style: italic;
 }
