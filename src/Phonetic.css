@@ -1,0 +1,10 @@
+.Phonetic a {
+  border: 1px solid #ddd;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+.Phonetic a:hover {
+  background: #0c3b2e;
+  color: yellow;
+}
